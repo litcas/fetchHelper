@@ -1,0 +1,19 @@
+{
+  "name": "fetchhelper",
+  "version": "1.0.0",
+  "description": "a fetch tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litcas/fetchHelper.git"
+  },
+  "author": "huying",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/litcas/fetchHelper/issues"
+  },
+  "homepage": "https://github.com/litcas/fetchHelper#readme"
+}
