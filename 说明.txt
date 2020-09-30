@@ -1,0 +1,13 @@
+发布npm包：
+1、git中创建项目fetchHelper
+2、克隆项目到本地
+3、运行npm init，初始化npm包
+4、创建index.js和组件代码
+5、git add . 文件添加到暂存区 /git commit 文件从暂存区到本地库 /git push 本地库某个分支推送到远程库（指定分支）
+    git commit -m '提交信息'
+6、准备发布npm包，npm adduser 或 npm login
+7、设置源：npm config set registry http://registry.npmjs.org
+8、发布npm：npm publish --access public
+9、更新版本，发布：$ npm version 1.0.1  、  npm publish
+应用：
+npm install sfetchhelper -g

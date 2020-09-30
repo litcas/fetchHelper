@@ -1,5 +1,5 @@
 {
-  "name": "fetchhelper",
+  "name": "sfetchhelper",
   "version": "1.0.1",
   "description": "a fetch tool",
   "main": "index.js",
